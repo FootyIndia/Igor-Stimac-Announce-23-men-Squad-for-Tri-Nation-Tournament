@@ -146,7 +146,7 @@ p{
   font-family: montserrat;
   padding-left: 20px;
   padding-right: 20px;
-  width: 90%;
+  width: 95%;
 }
 
 .twitter-tweet{
@@ -156,12 +156,6 @@ p{
   height: auto;
 }
 
-.twitter-tweet{
-  display: block;
-  margin:auto;
-  padding-left: 20px;
-  height: auto;
-}
 
 .other{
   text-decoration: none;
@@ -201,6 +195,7 @@ h3,h6{
 .footer p{
   padding:1px;
   color:white;
+  width:100%;
 }
 .footer a{
   text-decoration: none;
